@@ -370,5 +370,3 @@ else
 fi
 
 log "全面部署已完成！enjoy!!!"
-set 限制解除 
-set 限制解除 
